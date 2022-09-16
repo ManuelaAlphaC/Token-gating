@@ -1,3 +1,15 @@
+# Token-gating DAPP
+
+## Before verification
+
+![before-verification](https://user-images.githubusercontent.com/97229784/190678515-6d902865-07f6-4704-b9b3-c04eb4e75140.jpg)
+
+## After verification 
+
+![after-verification](https://user-images.githubusercontent.com/97229784/190678662-db4ac961-a7f0-49a6-9055-782108e8407d.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
