@@ -1,0 +1,13 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "address": "0xba7f1A9053F233F5A3a2d6c180F87Ea08bC2fbD7",
+            "name": "AVOTARS",
+            "type": "png",
+            "owner": false,
+            "link": "avotars",
+            "count": 0
+        }
+    ]
+}
